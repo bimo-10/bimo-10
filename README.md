@@ -75,7 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/rubyonrails-original.svg" height="30" alt="ruby on rails logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-on-rails-original.svg" height="30" alt="ruby on rails logo"  />
   
 </div>
 
